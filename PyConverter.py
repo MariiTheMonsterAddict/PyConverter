@@ -17,14 +17,14 @@ from pathlib import Path
 
 outputfilename = "default"
 #you can make it faster by making this variable 0, I like it at 1, but its not me using it
-timevariable = 0
+timevariable = 1
 #change this to wherever your gonna download the output files
 #for ease of use just change the output file to the same name every time and slap it here, mainly for automation purposes
 #script will ask you for a location if this is 
 path = "default"
 os_sys = sys.platform
 #you can put parts of the known keyvalues in this config file and it'll fast track the sorting operations
-personalconfig="score,hp,playerId"
+personalconfig="default"
 data_dict = {}
 
 #Dont go beyond this line if you don't understand what an int is in python... pls you'll probably break it and post a bug report on github... ;c
