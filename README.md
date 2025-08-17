@@ -14,4 +14,4 @@ might put some easter eggs throughout the script... who knowssss
 #TODO finish the program!
 #TODO make it output to a txt file with some pretty formating for easy reading 
 #TODO make a readme with some basic instructions
-#TODO post to a repo on github!!
+#TODO post to a repo on github!! 
