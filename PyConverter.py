@@ -15,13 +15,13 @@ from pathlib import Path
 #TODO post to a repo on github!!
 
 
-outputfilename = "output.txt"
+outputfilename = "default"
 #you can make it faster by making this variable 0, I like it at 1, but its not me using it
 timevariable = 0
 #change this to wherever your gonna download the output files
 #for ease of use just change the output file to the same name every time and slap it here, mainly for automation purposes
 #script will ask you for a location if this is 
-path = "/home/mari/Downloads"
+path = "default"
 os_sys = sys.platform
 #you can put parts of the known keyvalues in this config file and it'll fast track the sorting operations
 personalconfig="score,hp,playerId"
